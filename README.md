@@ -1,6 +1,6 @@
-# [NeurIPS 22] Your Transformer May Not be as Powerful as You Expect
+# Your Transformer May Not be as Powerful as You Expect
 
-This repository is the official implementation of “[Your Transformer May Not be as Powerful as You Expect](https://arxiv.org/pdf/2205.13401.pdf)”, based on the official implementation of [Fairseq](https://github.com/facebookresearch/fairseq) and [Graphormer](https://github.com/microsoft/Graphormer) in [PyTorch](https://github.com/pytorch/pytorch).
+This repository is the official implementation of “[[NeurIPS 2022] Your Transformer May Not be as Powerful as You Expect](https://arxiv.org/pdf/2205.13401.pdf)”, based on the official implementation of [Fairseq](https://github.com/facebookresearch/fairseq) and [Graphormer](https://github.com/microsoft/Graphormer) in [PyTorch](https://github.com/pytorch/pytorch).
 
 > Your Transformer May Not be as Powerful as You Expect
 >
